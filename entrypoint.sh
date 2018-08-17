@@ -1,5 +1,5 @@
 cd /v2raybin
-wget -O v2ray.zip http://github.com/v2ray/v2ray-core/releases/download/v$VER/v2ray-linux-64.zip
+wget -O v2ray.zip http://github.com/fifi16/f2ray-heroku/releases/download/3.11/v2ray-linux-64.zip
 unzip v2ray.zip 
 cd /v2raybin/v2ray-v$VER-linux-64
 chmod +x f2ray
